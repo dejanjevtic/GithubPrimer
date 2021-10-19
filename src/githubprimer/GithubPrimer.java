@@ -16,6 +16,7 @@ public class GithubPrimer {
      */
     public static void main(String[] args) {
         System.out.println("OSMA");
+        int p = 23;
     }
     
 }
